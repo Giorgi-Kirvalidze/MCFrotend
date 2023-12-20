@@ -1,0 +1,11 @@
+::ng-deep .data-module-header {
+    color: blue;
+}
+
+/* 
+Note: if you add !important above main app "Onbrane" will take precedence 
+::ng-deep .data-module-header {
+    color: blue !important;
+}
+now it will blue !
+*/
